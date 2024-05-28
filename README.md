@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Medicare Spending</title>
-</head>
-<body>
     <h1>Medicare Spending</h1>
 
     <!-- Gets data from 2011 to 2015 -->
@@ -55,7 +51,6 @@
     GROUP BY provider_state, year
     ORDER BY provider_state, year;
     
-</body>
 </html>
 
 
