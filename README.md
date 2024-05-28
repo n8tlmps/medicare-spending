@@ -1,7 +1,13 @@
-<h1>Medicare Spending</h1>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Medicare Spending</title>
+</head>
+<body>
+    <h1>Medicare Spending</h1>
 
--- Combine data from all required years and calculate average spending by state and year
-
+    <!-- Gets data from 2011 to 2015 -->
+    <pre>
 WITH combined_data AS (
   SELECT 
     provider_state,
@@ -45,7 +51,12 @@ WITH combined_data AS (
 SELECT 
   provider_state,
   year,
-  AVG(average_medicare_payments) AS avg_medicare_payments -- is this line necessary
+  AVG(average_medicare_payments) AS avg_medicare_payments
 FROM combined_data
 GROUP BY provider_state, year
 ORDER BY provider_state, year;
+    </pre>
+</body>
+</html>
+
+
