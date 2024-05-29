@@ -56,7 +56,7 @@
     GROUP BY provider_state, year
     ORDER BY provider_state, year;
 
-<img srs='medicare_spending_2011' />
+<img srs='map_2011' />
 </html>
 
 
