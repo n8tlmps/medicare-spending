@@ -56,7 +56,7 @@
     GROUP BY provider_state, year
     ORDER BY provider_state, year;
 
-<img srs='map_2011' />
+<img srs='map_2011.jpg' />
 </html>
 
 
