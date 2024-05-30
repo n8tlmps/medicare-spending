@@ -15,7 +15,6 @@ By investigating the average Medicare payments made to providers in each state o
         </p>
 
 <!-- Gets data from 2011 to 2015 -->
-
     WITH combined_data AS 
     (SELECT provider_state, average_medicare_payments, 2011 AS year FROM `bigquery-public-data.cms_medicare.inpatient_charges_2011` UNION ALL 
     SELECT provider_state, average_medicare_payments, 2012 AS year FROM `bigquery-public-data.cms_medicare.inpatient_charges_2012` UNION ALL 
@@ -26,6 +25,10 @@ By investigating the average Medicare payments made to providers in each state o
 </section>
 
 <img src='map_2011.jpg' />
+
+<section id='Analysis'>
+    <h2>Analysis</h2>
+</section>
 </html>
 
 
