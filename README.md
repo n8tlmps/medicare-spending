@@ -10,7 +10,7 @@ By investigating the average Medicare payments made to providers in each state o
 </p>
     </section>
     <section id='setup'>
-        <h2>Setup</h2>
+        <h2>Installation and Setup</h2>
         <p> The dataset for this study was obtained using Google BigQuery, a powerful and scalable data warehouse solution provided by Google Cloud. BigQuery enables users to run fast, SQL-like queries on large datasets, making it an ideal tool for handling extensive Medicare spending data. By leveraging BigQuery, the data extraction process was efficient and seamless, allowing for the integration of multiple years of data (2011 to 2015) from various Medicare-related tables. The benefits of using BigQuery include its ability to handle large-scale data analysis with high performance, its support for real-time data processing, and its ease of use for executing complex queries.
         </p>
 
