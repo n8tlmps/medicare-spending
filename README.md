@@ -45,6 +45,9 @@ In addition to creating choropleth maps to analyze Medicare spending patterns ac
         <img src='lowest.jpg' alt='Lowest Average Medicare Spending' />
 </div>
 
+<p>
+     States such as Alaska, California, Maryland, Hawaii, and the District of Columbia consistently exhibit the highest average Medicare spending across the years 2011 to 2015. This heightened expenditure may reflect various factors such as the cost of living, healthcare infrastructure, population demographics, and the prevalence of chronic diseases requiring ongoing medical care. Conversely, states like Alabama, Arizona, Mississippi, West Virginia, and Tennessee consistently demonstrate the lowest average Medicare spending during the same period. The reasons for these lower expenditures could vary and might include factors like efficient healthcare delivery systems, healthier population demographics, lower healthcare utilization rates, or even differences in Medicare reimbursement rates. Identifying and understanding these regional disparities in Medicare spending are crucial for policymakers and healthcare professionals to optimize resource allocation and improve healthcare outcomes nationwide.
+</p>
 </section>
 </html>
 
