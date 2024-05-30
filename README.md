@@ -48,10 +48,10 @@ By investigating the average Medicare payments made to providers in each state o
 
 <p>
      States such as Alaska, California, Maryland, the District of Columbia, and Hawaii consistently exhibit the highest average Medicare spending across the years 2011 to 2015. Conversely, states like Alabama, Arizona, Mississippi, West Virginia, and Tennessee consistently demonstrate the lowest average Medicare spending during the same period. Identifying and understanding these regional disparities in Medicare spending are crucial for policymakers and healthcare professionals to optimize resource allocation and improve healthcare outcomes nationwide.
-</p>
 
-<p>
-    
+These observed disparities in Medicare expenditure across states reflect the complex factors influencing healthcare spending. While the Affordable Care Act essentially takes place at the state level, it can be noted that some states spend more than twice as much on health care as others, as a percent of state income. This can be attributed to the way private sector medicine is practiced across the different states. The public sector demonstrates much more variability from state to state than the private sector. In general, private sector spending is much more similar from state to state than government spending.
+
+It should be noted that generalizing Medicare data is a pressing issue. Different types of healthcare spending may substitute for each other, challenging the assumption that replicating healthcare practices from low-spending areas to high-spending regions would lead to substantial cost savings. For instance, states with higher uninsured rates may experience higher Medicare spending per enrollee due to increased unpaid bills, while simultaneously exhibiting lower private sector spending. Conversely, some states with high Medicare spending may demonstrate lower private sector spending and vice versa.
 </p>
 </section>
 </html>
