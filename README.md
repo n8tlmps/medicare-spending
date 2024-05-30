@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+<head>
+    
+</head>
     <h1>Medicare Spending</h1>
     <section id='Introduction'>
     <h2>Introduction</h2>
