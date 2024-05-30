@@ -55,8 +55,15 @@ It should be noted that generalizing Medicare data may elicit defective conclusi
 </p>
 </section>
 
+<section id='visual'>
+<h2>Dashboard</h2>
+<img src='Dashboard.png'/>
+<p><a href="https://public.tableau.com/views/MedicareSpending_17169359419310/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link">Dashboard</a></p>
+    
+</section>
+
 <section id='resources'>
-    <h3>Resources</h3>
+    <h2>Resources</h2>
     <a href="https://www.healthaffairs.org/content/forefront/why-do-some-states-spend-more-health-care">HealthAffairs</a>
 </section>
 </html>
