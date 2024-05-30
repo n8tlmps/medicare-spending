@@ -4,14 +4,15 @@
     <section id='Introduction'>
     <h2>Introduction</h2>
         <p>
-In this detailed exploration, Medicare spending data from 2011 to 2015 was examined to identify and analyze spending patterns across the United States. The dataset used in this study summarizes the utilization and payments for procedures, services, and prescription drugs provided to Medicare beneficiaries by specific inpatient and outpatient hospitals, physicians, and other suppliers. It includes data on common inpatient and outpatient services, all physician and other supplier procedures and services, and all Part D prescriptions. For more information: <a href="https://data.cms.gov/tools">click here</a>
+    In this detailed exploration, Medicare spending data from 2011 to 2015 was examined to identify and analyze spending patterns across the United States. The dataset used in this study summarizes the utilization and payments for procedures, services, and prescription drugs provided to Medicare beneficiaries by specific inpatient and outpatient hospitals, physicians, and other suppliers. It includes data on common inpatient and outpatient services, all physician and other supplier procedures and services, and all Part D prescriptions. For more information: <a href="https://data.cms.gov/tools">click here</a>
     
 By investigating the average Medicare payments made to providers in each state over these years, this analysis aims to uncover trends and variations in healthcare expenditures. The findings from this study provide valuable insights into how Medicare resources are allocated and highlight significant differences in spending across different regions of the country.
 </p>
     </section>
     <section id='setup'>
         <h2>Installation and Setup</h2>
-        <p> The dataset for this study was obtained using Google BigQuery, a powerful and scalable data warehouse solution provided by Google Cloud. BigQuery enables users to run fast, SQL-like queries on large datasets, making it an ideal tool for handling extensive Medicare spending data. By leveraging BigQuery, the data extraction process was efficient and seamless, allowing for the integration of multiple years of data (2011 to 2015) from various Medicare-related tables. The benefits of using BigQuery include its ability to handle large-scale data analysis with high performance, its support for real-time data processing, and its ease of use for executing complex queries.
+        <p> 
+    The dataset for this study was obtained using Google BigQuery, a powerful and scalable data warehouse solution provided by Google Cloud. BigQuery enables users to run fast, SQL-like queries on large datasets, making it an ideal tool for handling extensive Medicare spending data. By leveraging BigQuery, the data extraction process was efficient and seamless, allowing for the integration of multiple years of data (2011 to 2015) from various Medicare-related tables. The benefits of using BigQuery include its ability to handle large-scale data analysis with high performance, its support for real-time data processing, and its ease of use for executing complex queries.
         </p>
 
 <!-- Gets data from 2011 to 2015 -->
@@ -37,7 +38,7 @@ By investigating the average Medicare payments made to providers in each state o
 <img src='map_2015.jpg' />
 
 <p>
-In addition to creating choropleth maps to analyze Medicare spending patterns across states, the analysis was supplemented with bar graphs to provide a more detailed comparison of average Medicare payments. Using the Python packages <b>`pandas`</b> and <b>`matplotlib`</b>, the data was processed to calculate the average Medicare payments per state across all years from 2011 to 2015. The top 10 states with the highest average spending and the bottom 10 states with the lowest average spending were identified. Bar graphs were then created to visualize these findings.
+    In addition to creating choropleth maps to analyze Medicare spending patterns across states, the analysis was supplemented with bar graphs to provide a more detailed comparison of average Medicare payments. Using the Python packages <b>`pandas`</b> and <b>`matplotlib`</b>, the data was processed to calculate the average Medicare payments per state across all years from 2011 to 2015. The top 10 states with the highest average spending and the bottom 10 states with the lowest average spending were identified. Bar graphs were then created to visualize these findings.
 </p>
 
 <div>
@@ -47,6 +48,10 @@ In addition to creating choropleth maps to analyze Medicare spending patterns ac
 
 <p>
      States such as Alaska, California, Maryland, the District of Columbia, and Hawaii consistently exhibit the highest average Medicare spending across the years 2011 to 2015. Conversely, states like Alabama, Arizona, Mississippi, West Virginia, and Tennessee consistently demonstrate the lowest average Medicare spending during the same period. Identifying and understanding these regional disparities in Medicare spending are crucial for policymakers and healthcare professionals to optimize resource allocation and improve healthcare outcomes nationwide.
+</p>
+
+<p>
+    
 </p>
 </section>
 </html>
