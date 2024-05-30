@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <style>
-        img {
-            width: 45%; /* Adjust the width as needed */
-            margin: 5px; /* Add some margin between the images */
-            display: inline-block; /* Display the images inline */
-        }
-    </style>
+<style>
+    img {
+        width: 45%; /* Adjust the width as needed */
+        margin: 5px; /* Add some margin between the images */
+        display: inline-block; /* Display the images inline */
+    }
+</style>
 </head>
     <h1>Medicare Spending</h1>
     <section id='Introduction'>
