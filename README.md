@@ -36,12 +36,25 @@ By investigating the average Medicare payments made to providers in each state o
 <img src='map_2014.jpg' />
 <img src='map_2015.jpg' />
 
-<p>
-In addition to creating choropleth maps to analyze Medicare spending patterns across states, the analysis was supplemented with bar graphs to provide a more detailed comparison of average Medicare payments. Using the Python packages <b>`pandas`</b> and <b>`matplotlib`</b>, the data was processed to calculate the average Medicare payments per state across all years from 2011 to 2015. The top 10 states with the highest average spending and the bottom 10 states with the lowest average spending were identified. Bar graphs were then created to visualize these findings.
-</p>
+<head>
+    <style>
+        img {
+            width: 45%; /* Adjust the width as needed */
+            margin: 5px; /* Add some margin between the images */
+            display: inline-block; /* Display the images inline */
+        }
+    </style>
+</head>
+<body>
+    <p>
+        In addition to creating choropleth maps to analyze Medicare spending patterns across states, the analysis was supplemented with bar graphs to provide a more detailed comparison of average Medicare payments. Using the Python packages <b>`pandas`</b> and <b>`matplotlib`</b>, the data was processed to calculate the average Medicare payments per state across all years from 2011 to 2015. The top 10 states with the highest average spending and the bottom 10 states with the lowest average spending were identified. Bar graphs were then created to visualize these findings.
+    </p>
 
-<img src='highest.jpg' />
-<img src='lowest.jpg' />
+<div>
+        <img src='highest.jpg' alt='Highest Average Medicare Spending' />
+        <img src='lowest.jpg' alt='Lowest Average Medicare Spending' />
+</div>
+</body>
 
 </section>
 </html>
