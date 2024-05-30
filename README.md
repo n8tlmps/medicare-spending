@@ -54,6 +54,11 @@ These observed disparities in Medicare expenditure across states reflect the com
 It should be noted that generalizing Medicare data may elicit defective conclusions. Different types of healthcare spending may substitute for each other, challenging the assumption that replicating healthcare practices from low-spending areas to high-spending regions would lead to substantial cost savings. For instance, states with higher uninsured rates may experience higher Medicare spending per enrollee due to increased unpaid bills, while simultaneously exhibiting lower private sector spending. Conversely, some states with high Medicare spending may demonstrate lower private sector spending and vice versa.
 </p>
 </section>
+
+<section id='resources'>
+    <h3>Resources</h3>
+    <a href="https://www.healthaffairs.org/content/forefront/why-do-some-states-spend-more-health-care">HealthAffairs</a>
+</section>
 </html>
 
 
