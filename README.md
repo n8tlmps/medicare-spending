@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    
+    <style></style>
 </head>
     <h1>Medicare Spending</h1>
     <section id='Introduction'>
