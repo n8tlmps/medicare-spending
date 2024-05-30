@@ -26,14 +26,16 @@ By investigating the average Medicare payments made to providers in each state o
 
 <section id='Analysis'>
     <h2>Analysis</h2>
-    <p>
-        To analyze spending patterns across states, choropleth maps were created to visually represent the average Medicare payments made to providers in each state from 2011 to 2015. These maps color-code each state based on their spending levels, allowing for a clear and intuitive comparison of Medicare expenditures across the country. By using these maps, it becomes easier to identify which states spend the most on Medicare and observe any patterns or similarities in spending. The visual representation helps to highlight regional trends and provides a comprehensive overview of how Medicare resources are distributed geographically, revealing significant insights into healthcare spending behavior across the United States.
-    </p>
-    <img src='map_2011.jpg' />
-    <img src='map_2012.jpg' />
-    <img src='map_2013.jpg' />
-    <img src='map_2014.jpg' />
-    <img src='map_2015.jpg' />
+<p>
+    To analyze spending patterns across states, choropleth maps were created using Python packages <strong>`pandas`</strong> and <strong>`plotly.express`</strong> to visually represent the average Medicare payments made to providers in each state from 2011 to 2015. The <strong>`pandas`</strong> library was utilized for data manipulation and aggregation, allowing for the efficient processing of the Medicare spending dataset. <strong>`plotly.express`</strong> was then employed to generate interactive choropleth maps that color-code each state based on their spending levels, allowing for a clear and intuitive comparison of Medicare expenditures across the country. By using these maps, it becomes easier to identify which states spend the most on Medicare and observe any patterns or similarities in spending. The visual representation helps to highlight regional trends and provides a comprehensive overview of how Medicare resources are distributed geographically, revealing significant insights into healthcare spending behavior across the United States.
+</p>
+
+<img src='map_2011.jpg' />
+<img src='map_2012.jpg' />
+<img src='map_2013.jpg' />
+<img src='map_2014.jpg' />
+<img src='map_2015.jpg' />
+
 </section>
 </html>
 
