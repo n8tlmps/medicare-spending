@@ -60,7 +60,7 @@ It should be noted that generalizing Medicare data may elicit faulty conclusions
 <section id='visual'>
 <h2>Dashboard</h2>
 <img src='Dashboard.png'/>
-<p>Check out my interactive <a href="https://public.tableau.com/views/MedicareSpending_17169359419310/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link">Tableau Dashboard</a></p>
+<p>Check out my interactive <a href="https://public.tableau.com/views/MedicareSpending_17169359419310/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link">Tableau Dashboard</a></p>
     
 </section>
 
